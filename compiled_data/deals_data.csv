@@ -1,0 +1,16 @@
+service_id,price,deal_title,payment_method
+1,6.99,Basic with Adds,Monthly
+1,9.99,Basic without Adds,Monthly
+1,15.49,Standard,Monthly
+1,19.99,Premium,Monthly
+2,7.49,Prime Student,Monthly
+2,69,Prime Student,Yearly
+2,8.99,prime video only,Monthly
+2,14.99,Prime Member,Monthly
+2,139,Prime Member,Yearly
+3,7.99,Basic,Monthly
+3,10.99,Premium,Monthly
+4,8,Basic with Adds,Monthly
+4,15,No Adds,Monthly
+4,70,Basic with Adds + Live TV,Monthly
+4,83,No Adds + Live TV,Monthly
