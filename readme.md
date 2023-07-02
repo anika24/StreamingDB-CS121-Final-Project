@@ -1,8 +1,6 @@
-Contributors: Anika Arora and Andy Dimnaku
-Final Project: Relational Databases Course
+## Final Project: Relational Databases Course
 
 Contributors: Anika Arora and Andy Dimnaku
-Final Project: CS121 Relational Databases
 
 We created a streaming services databases called streamingdb which contains accumulated data from Netflix, Hulu, Disney+, and Amazon Prime. The data includes information about the content within the streaming services (movies, TV shows, genres, actors, etc.), as well as user reviews about the streaming services and the content they provide. Our data was obtained from four separate Kaggle datasets (one per streaming service), and reviews of the services and content were randomly generated or scraped off the Internet.
 
